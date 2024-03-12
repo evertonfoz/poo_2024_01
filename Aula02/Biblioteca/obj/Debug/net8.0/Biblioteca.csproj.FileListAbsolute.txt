@@ -1,0 +1,5 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Biblioteca/obj/Debug/net8.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Biblioteca/obj/Debug/net8.0/Biblioteca.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Biblioteca/obj/Debug/net8.0/Biblioteca.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Biblioteca/obj/Debug/net8.0/Biblioteca.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Biblioteca/obj/Debug/net8.0/Biblioteca.sourcelink.json

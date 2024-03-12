@@ -1,0 +1,15 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/bin/Debug/net8.0/Exercicios01
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/bin/Debug/net8.0/Exercicios01.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/bin/Debug/net8.0/Exercicios01.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/bin/Debug/net8.0/Exercicios01.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/bin/Debug/net8.0/Exercicios01.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/obj/Debug/net8.0/Exercicios01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/obj/Debug/net8.0/Exercicios01.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/obj/Debug/net8.0/Exercicios01.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/obj/Debug/net8.0/Exercicios01.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/obj/Debug/net8.0/Exercicios01.sourcelink.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/obj/Debug/net8.0/Exercicios01.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/obj/Debug/net8.0/refint/Exercicios01.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/obj/Debug/net8.0/Exercicios01.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/obj/Debug/net8.0/Exercicios01.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Aula02/Exercicios01/obj/Debug/net8.0/ref/Exercicios01.dll

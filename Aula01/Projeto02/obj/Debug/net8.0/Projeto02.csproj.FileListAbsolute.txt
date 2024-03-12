@@ -1,0 +1,15 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/bin/Debug/net8.0/Projeto02
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/bin/Debug/net8.0/Projeto02.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/bin/Debug/net8.0/Projeto02.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/bin/Debug/net8.0/Projeto02.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/bin/Debug/net8.0/Projeto02.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/obj/Debug/net8.0/Projeto02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/obj/Debug/net8.0/Projeto02.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/obj/Debug/net8.0/Projeto02.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/obj/Debug/net8.0/Projeto02.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/obj/Debug/net8.0/Projeto02.sourcelink.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/obj/Debug/net8.0/Projeto02.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/obj/Debug/net8.0/refint/Projeto02.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/obj/Debug/net8.0/Projeto02.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/obj/Debug/net8.0/Projeto02.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo2023_02/2024/Projeto02/obj/Debug/net8.0/ref/Projeto02.dll
