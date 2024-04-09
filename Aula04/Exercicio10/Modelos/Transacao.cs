@@ -1,10 +1,16 @@
+using Exercicio10.Modelos;
+
 namespace Modelos;
-class ConversorDeMoeda {
-    public double Taxa { get; private set; }
-    // Valor de Venda
-    // Valor de Compra
-    // Taxa de Compra
-    // Taxa de Venda
-    // Moeda de Comora
-    // Moeda de Venda
+class Transacao {
+    public Taxa Taxa { get; private set; }
+    public bool EhValida { get; private set; }
+
+    public Transacao(Taxa taxa, bool ehValida = true)
+    {
+        Taxa = taxa;
+    }
+
+    public void Cancelar() {
+        EhValida = false;
+    }
 }

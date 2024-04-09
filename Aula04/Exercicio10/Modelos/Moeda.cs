@@ -22,5 +22,24 @@ class Moeda {
     {
         Pais = pais;
     }
+
+    public override string ToString()
+    {
+        return $"{Simbolo}  / {Nome}";
+    }
+
+    public override bool Equals(object? obj)
+    {
+        if (obj == null) {
+            return false;
+        }
+
+        return ((Moeda)obj).Simbolo == Simbolo;
+    }
+
+    public override int GetHashCode()
+    {
+        return Simbolo.GetHashCode() * 11;
+    }
 }
 
