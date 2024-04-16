@@ -1,8 +1,31 @@
 ﻿using Utfpr.Poo.Aula05.Exercicio01.Model.EnderecoModel;
 
-Pais pais = new("BR", "Brasil");
-pais.AdicionarEstado( new Estado("PR", "Paraná"));
-pais.AdicionarEstado(new Estado("SP", "São Paulo"));
+var pais01 = new Pais("BR", "BRasil");
+Pais pais02 = new("PY", "Paraguai");
+
+new Estado("PR", "Paraná", pais01);
+var estado01 = new Estado("SP", "São Paulo");
+estado01.RegistrarPais(pais02);
+// pais02.Estados.Add(estado01);
+// pais02.Estados.Add(new Estado( "RS", "Rio Grande do Sul"));
+
+var pais03 = new Pais("AR", "Argentina");
+new Estado("SC", "Santa Catarina", pais03);
+
+
+
+
+// var estadoPais01 = pais01.Estados[0];
+// estadoPais01 = new Estado("SP", "São Paulo");
+
+Console.ReadLine();
+
+
+// using Utfpr.Poo.Aula05.Exercicio01.Model.EnderecoModel;
+
+// Pais pais = new("BR", "Brasil");
+// pais.AdicionarEstado( new Estado("PR", "Paraná"));
+// pais.AdicionarEstado(new Estado("SP", "São Paulo"));
 // pais.Estados.Add();
 
 // Console.WriteLine(pais.Estados);
