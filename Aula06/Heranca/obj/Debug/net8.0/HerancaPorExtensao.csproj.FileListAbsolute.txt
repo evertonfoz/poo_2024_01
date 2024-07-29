@@ -1,0 +1,15 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/bin/Debug/net8.0/HerancaPorExtensao
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/bin/Debug/net8.0/HerancaPorExtensao.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/bin/Debug/net8.0/HerancaPorExtensao.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/bin/Debug/net8.0/HerancaPorExtensao.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/bin/Debug/net8.0/HerancaPorExtensao.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/obj/Debug/net8.0/HerancaPorExtensao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/obj/Debug/net8.0/HerancaPorExtensao.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/obj/Debug/net8.0/HerancaPorExtensao.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/obj/Debug/net8.0/HerancaPorExtensao.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/obj/Debug/net8.0/HerancaPorExtensao.sourcelink.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/obj/Debug/net8.0/HerancaPorExtensao.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/obj/Debug/net8.0/refint/HerancaPorExtensao.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/obj/Debug/net8.0/HerancaPorExtensao.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/obj/Debug/net8.0/HerancaPorExtensao.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_01/Aula06/Heranca/obj/Debug/net8.0/ref/HerancaPorExtensao.dll

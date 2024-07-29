@@ -10,7 +10,7 @@ estado01.RegistrarPais(pais02);
 // pais02.Estados.Add(new Estado( "RS", "Rio Grande do Sul"));
 
 var pais03 = new Pais("AR", "Argentina");
-new Estado("SC", "Santa Catarina", pais03);
+new Estado("SC", "Santa Catarina", pais: pais03);
 
 
 
